@@ -1,11 +1,9 @@
 # Practice
 
+JS day1
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
 
 
@@ -21,3 +19,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Obj
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections
+
+JS day4
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
