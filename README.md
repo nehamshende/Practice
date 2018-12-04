@@ -23,3 +23,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collection
 JS day4
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
+
+Node JS
+https://www.w3schools.com/nodejs/nodejs_intro.asp
