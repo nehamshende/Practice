@@ -26,3 +26,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
 
 Node JS
 https://www.w3schools.com/nodejs/nodejs_intro.asp
+
+Jest
+https://www.google.com/url?q=https%3A%2F%2Fjestjs.io%2F&sa=D&ust=1544414356802000&usg=AFQjCNGFnEAGRtX5bSWb6MgC9kejDzn6Ww
